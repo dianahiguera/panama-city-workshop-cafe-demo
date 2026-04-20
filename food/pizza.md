@@ -10,7 +10,6 @@
 * Tomato sauce
 * Pineapples
 * Ham
-* Poison
 
 
 
@@ -18,6 +17,6 @@
 
 
 
-* Combine 
+* Combine
 * Cook
 
